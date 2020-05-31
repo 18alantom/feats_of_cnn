@@ -4,7 +4,10 @@
 ---
 
 ## Visualizations   
-*experimenting*
+![Filters and data patches](./ss/viz1.png)
+Vizualizations from the `CNN Viz.ipynb` notebook showing conv layer kernel for some channel in the first layer, it's resultant activation map and patches that result in highly activated neurons in the channel.
+
+*More stuff to be added...*
 
 ---
 
