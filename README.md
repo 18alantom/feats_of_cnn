@@ -26,4 +26,13 @@ A naive attempt at [FGVC7 - Plant Pathology](https://www.kaggle.com/c/plant-path
 Makes use of image augmentation using [Albumentations](https://github.com/albumentations-team/albumentations), ensemble of 4 models among other things.  
 
 ![Misclassified](ss/fgvc.png)
-*Inspecting some misclassified samples*
+*Inspecting some misclassified samples.*
+
+---
+
+## Detection
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t4B5PM5f34VkP0IepoJ_ZFx63x2Jswo9?usp=sharing)  
+From following [this](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html#putting-everything-together), but self coded.
+
+![Detection comparisons](ss/det.png)
+*Comparing predicted detection and instance seg maps with ground truth.*
